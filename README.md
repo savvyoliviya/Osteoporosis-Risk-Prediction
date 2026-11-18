@@ -2,9 +2,9 @@
 
 Machine learning project that predicts whether a patient is likely to have osteoporosis from demographic, lifestyle and medical-history features. It covers the full workflow: data cleaning, exploratory data analysis (EDA), model training with hyperparameter tuning, and model comparison.
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
+![Python]
+![scikit-learn]
+![Jupyter
 
 > **Disclaimer:** This is an educational project. It is not a medical device and must not be used for diagnosis or clinical decisions.
 
